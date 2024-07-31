@@ -1,0 +1,11 @@
+class power{
+public static void main(String[] args){
+	int m=2,n=3,start=1;
+	double d;
+	while(start<=3){
+	d=m*start; 
+	}
+	System.out.println(d);
+
+}
+}
