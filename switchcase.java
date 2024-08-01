@@ -3,10 +3,10 @@ public static void main(String[] args){
 	int n=1;
 	switch(n){
 	case(1):
-	System.out.println("sunday");
+	System.out.println("sun");
 	break;
 	case(2):
-	System.out.println("monday");
+	System.out.println("mon");
 	break;
 	case(3):
 	System.out.println("tuesday");
